@@ -1,0 +1,10 @@
+D:\PVolume\PVolume\obj\Debug\PVolume.csprojAssemblyReference.cache
+D:\PVolume\PVolume\obj\Debug\PVolume.Form1.resources
+D:\PVolume\PVolume\obj\Debug\PVolume.Properties.Resources.resources
+D:\PVolume\PVolume\obj\Debug\PVolume.csproj.GenerateResource.cache
+D:\PVolume\PVolume\obj\Debug\PVolume.csproj.CoreCompileInputs.cache
+D:\PVolume\PVolume\bin\Debug\PVolume.exe.config
+D:\PVolume\PVolume\bin\Debug\PVolume.exe
+D:\PVolume\PVolume\bin\Debug\PVolume.pdb
+D:\PVolume\PVolume\obj\Debug\PVolume.exe
+D:\PVolume\PVolume\obj\Debug\PVolume.pdb
