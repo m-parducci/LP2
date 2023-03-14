@@ -1,0 +1,10 @@
+D:\PCalc\PCalc\bin\Debug\PCalc.exe.config
+D:\PCalc\PCalc\bin\Debug\PCalc.exe
+D:\PCalc\PCalc\bin\Debug\PCalc.pdb
+D:\PCalc\PCalc\obj\Debug\PCalc.csprojAssemblyReference.cache
+D:\PCalc\PCalc\obj\Debug\PCalc.Form1.resources
+D:\PCalc\PCalc\obj\Debug\PCalc.Properties.Resources.resources
+D:\PCalc\PCalc\obj\Debug\PCalc.csproj.GenerateResource.cache
+D:\PCalc\PCalc\obj\Debug\PCalc.csproj.CoreCompileInputs.cache
+D:\PCalc\PCalc\obj\Debug\PCalc.exe
+D:\PCalc\PCalc\obj\Debug\PCalc.pdb
