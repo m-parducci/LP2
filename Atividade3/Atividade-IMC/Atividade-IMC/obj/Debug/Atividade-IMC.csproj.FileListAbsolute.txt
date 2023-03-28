@@ -1,0 +1,20 @@
+C:\Users\Mariana Parducci\Documents\Atividade-IMC\Atividade-IMC\bin\Debug\Atividade-IMC.exe.config
+C:\Users\Mariana Parducci\Documents\Atividade-IMC\Atividade-IMC\bin\Debug\Atividade-IMC.exe
+C:\Users\Mariana Parducci\Documents\Atividade-IMC\Atividade-IMC\bin\Debug\Atividade-IMC.pdb
+C:\Users\Mariana Parducci\Documents\Atividade-IMC\Atividade-IMC\obj\Debug\Atividade-IMC.csproj.AssemblyReference.cache
+C:\Users\Mariana Parducci\Documents\Atividade-IMC\Atividade-IMC\obj\Debug\Atividade_IMC.Form1.resources
+C:\Users\Mariana Parducci\Documents\Atividade-IMC\Atividade-IMC\obj\Debug\Atividade_IMC.Properties.Resources.resources
+C:\Users\Mariana Parducci\Documents\Atividade-IMC\Atividade-IMC\obj\Debug\Atividade-IMC.csproj.GenerateResource.cache
+C:\Users\Mariana Parducci\Documents\Atividade-IMC\Atividade-IMC\obj\Debug\Atividade-IMC.csproj.CoreCompileInputs.cache
+C:\Users\Mariana Parducci\Documents\Atividade-IMC\Atividade-IMC\obj\Debug\Atividade-IMC.exe
+C:\Users\Mariana Parducci\Documents\Atividade-IMC\Atividade-IMC\obj\Debug\Atividade-IMC.pdb
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\Atividade-IMC\Atividade-IMC\bin\Debug\Atividade-IMC.exe.config
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\Atividade-IMC\Atividade-IMC\bin\Debug\Atividade-IMC.exe
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\Atividade-IMC\Atividade-IMC\bin\Debug\Atividade-IMC.pdb
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\Atividade-IMC\Atividade-IMC\obj\Debug\Atividade-IMC.csproj.AssemblyReference.cache
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\Atividade-IMC\Atividade-IMC\obj\Debug\Atividade_IMC.Form1.resources
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\Atividade-IMC\Atividade-IMC\obj\Debug\Atividade_IMC.Properties.Resources.resources
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\Atividade-IMC\Atividade-IMC\obj\Debug\Atividade-IMC.csproj.GenerateResource.cache
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\Atividade-IMC\Atividade-IMC\obj\Debug\Atividade-IMC.csproj.CoreCompileInputs.cache
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\Atividade-IMC\Atividade-IMC\obj\Debug\Atividade-IMC.exe
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\Atividade-IMC\Atividade-IMC\obj\Debug\Atividade-IMC.pdb
