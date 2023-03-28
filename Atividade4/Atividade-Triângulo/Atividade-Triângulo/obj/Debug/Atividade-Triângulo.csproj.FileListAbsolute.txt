@@ -1,0 +1,10 @@
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\Atividade-Triângulo\Atividade-Triângulo\bin\Debug\Atividade-Triângulo.exe.config
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\Atividade-Triângulo\Atividade-Triângulo\bin\Debug\Atividade-Triângulo.exe
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\Atividade-Triângulo\Atividade-Triângulo\bin\Debug\Atividade-Triângulo.pdb
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\Atividade-Triângulo\Atividade-Triângulo\obj\Debug\Atividade-Triângulo.csproj.AssemblyReference.cache
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\Atividade-Triângulo\Atividade-Triângulo\obj\Debug\Atividade_Triângulo.Form1.resources
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\Atividade-Triângulo\Atividade-Triângulo\obj\Debug\Atividade_Triângulo.Properties.Resources.resources
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\Atividade-Triângulo\Atividade-Triângulo\obj\Debug\Atividade-Triângulo.csproj.GenerateResource.cache
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\Atividade-Triângulo\Atividade-Triângulo\obj\Debug\Atividade-Triângulo.csproj.CoreCompileInputs.cache
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\Atividade-Triângulo\Atividade-Triângulo\obj\Debug\Atividade-Triângulo.exe
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\Atividade-Triângulo\Atividade-Triângulo\obj\Debug\Atividade-Triângulo.pdb
