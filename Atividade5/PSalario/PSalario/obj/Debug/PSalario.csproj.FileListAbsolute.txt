@@ -1,0 +1,30 @@
+C:\Users\0030482221017\source\repos\PSalario\PSalario\bin\Debug\PSalario.exe.config
+C:\Users\0030482221017\source\repos\PSalario\PSalario\bin\Debug\PSalario.exe
+C:\Users\0030482221017\source\repos\PSalario\PSalario\bin\Debug\PSalario.pdb
+C:\Users\0030482221017\source\repos\PSalario\PSalario\obj\Debug\PSalario.csprojAssemblyReference.cache
+C:\Users\0030482221017\source\repos\PSalario\PSalario\obj\Debug\PSalario.Form1.resources
+C:\Users\0030482221017\source\repos\PSalario\PSalario\obj\Debug\PSalario.Properties.Resources.resources
+C:\Users\0030482221017\source\repos\PSalario\PSalario\obj\Debug\PSalario.csproj.GenerateResource.cache
+C:\Users\0030482221017\source\repos\PSalario\PSalario\obj\Debug\PSalario.csproj.CoreCompileInputs.cache
+C:\Users\0030482221017\source\repos\PSalario\PSalario\obj\Debug\PSalario.exe
+C:\Users\0030482221017\source\repos\PSalario\PSalario\obj\Debug\PSalario.pdb
+D:\PSalario\PSalario\bin\Debug\PSalario.exe.config
+D:\PSalario\PSalario\bin\Debug\PSalario.exe
+D:\PSalario\PSalario\bin\Debug\PSalario.pdb
+D:\PSalario\PSalario\obj\Debug\PSalario.csproj.AssemblyReference.cache
+D:\PSalario\PSalario\obj\Debug\PSalario.Form1.resources
+D:\PSalario\PSalario\obj\Debug\PSalario.Properties.Resources.resources
+D:\PSalario\PSalario\obj\Debug\PSalario.csproj.GenerateResource.cache
+D:\PSalario\PSalario\obj\Debug\PSalario.csproj.CoreCompileInputs.cache
+D:\PSalario\PSalario\obj\Debug\PSalario.exe
+D:\PSalario\PSalario\obj\Debug\PSalario.pdb
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\PSalario\PSalario\bin\Debug\PSalario.exe.config
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\PSalario\PSalario\bin\Debug\PSalario.exe
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\PSalario\PSalario\bin\Debug\PSalario.pdb
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\PSalario\PSalario\obj\Debug\PSalario.csproj.AssemblyReference.cache
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\PSalario\PSalario\obj\Debug\PSalario.Form1.resources
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\PSalario\PSalario\obj\Debug\PSalario.Properties.Resources.resources
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\PSalario\PSalario\obj\Debug\PSalario.csproj.GenerateResource.cache
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\PSalario\PSalario\obj\Debug\PSalario.csproj.CoreCompileInputs.cache
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\PSalario\PSalario\obj\Debug\PSalario.exe
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\PSalario\PSalario\obj\Debug\PSalario.pdb
