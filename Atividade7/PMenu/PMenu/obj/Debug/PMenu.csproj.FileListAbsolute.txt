@@ -1,0 +1,25 @@
+C:\Users\0030482221017\source\repos\PMenu\PMenu\bin\Debug\PMenu.exe.config
+C:\Users\0030482221017\source\repos\PMenu\PMenu\bin\Debug\PMenu.exe
+C:\Users\0030482221017\source\repos\PMenu\PMenu\bin\Debug\PMenu.pdb
+C:\Users\0030482221017\source\repos\PMenu\PMenu\obj\Debug\PMenu.csprojAssemblyReference.cache
+C:\Users\0030482221017\source\repos\PMenu\PMenu\obj\Debug\PMenu.Form1.resources
+C:\Users\0030482221017\source\repos\PMenu\PMenu\obj\Debug\PMenu.Properties.Resources.resources
+C:\Users\0030482221017\source\repos\PMenu\PMenu\obj\Debug\PMenu.csproj.GenerateResource.cache
+C:\Users\0030482221017\source\repos\PMenu\PMenu\obj\Debug\PMenu.csproj.CoreCompileInputs.cache
+C:\Users\0030482221017\source\repos\PMenu\PMenu\obj\Debug\PMenu.exe
+C:\Users\0030482221017\source\repos\PMenu\PMenu\obj\Debug\PMenu.pdb
+C:\Users\0030482221017\source\repos\PMenu\PMenu\obj\Debug\PMenu.frmExercicio2.resources
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\PMenu\PMenu\bin\Debug\PMenu.exe.config
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\PMenu\PMenu\bin\Debug\PMenu.exe
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\PMenu\PMenu\bin\Debug\PMenu.pdb
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\PMenu\PMenu\obj\Debug\PMenu.csproj.AssemblyReference.cache
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\PMenu\PMenu\obj\Debug\PMenu.Form1.resources
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\PMenu\PMenu\obj\Debug\PMenu.frmExercicio2.resources
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\PMenu\PMenu\obj\Debug\PMenu.frmExercicio3.resources
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\PMenu\PMenu\obj\Debug\PMenu.Properties.Resources.resources
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\PMenu\PMenu\obj\Debug\PMenu.csproj.GenerateResource.cache
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\PMenu\PMenu\obj\Debug\PMenu.csproj.CoreCompileInputs.cache
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\PMenu\PMenu\obj\Debug\PMenu.exe
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\PMenu\PMenu\obj\Debug\PMenu.pdb
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\PMenu\PMenu\obj\Debug\PMenu.frmExercicio4.resources
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\PMenu\PMenu\obj\Debug\PMenu.frmExercicio5.resources
