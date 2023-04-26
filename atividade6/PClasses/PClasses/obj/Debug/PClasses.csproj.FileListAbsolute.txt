@@ -1,0 +1,23 @@
+C:\Users\Mariana Parducci\source\repos\PClasses\PClasses\bin\Debug\PClasses.exe.config
+C:\Users\Mariana Parducci\source\repos\PClasses\PClasses\bin\Debug\PClasses.exe
+C:\Users\Mariana Parducci\source\repos\PClasses\PClasses\bin\Debug\PClasses.pdb
+C:\Users\Mariana Parducci\source\repos\PClasses\PClasses\obj\Debug\PClasses.csproj.AssemblyReference.cache
+C:\Users\Mariana Parducci\source\repos\PClasses\PClasses\obj\Debug\PClasses.Form1.resources
+C:\Users\Mariana Parducci\source\repos\PClasses\PClasses\obj\Debug\PClasses.frmMensalista.resources
+C:\Users\Mariana Parducci\source\repos\PClasses\PClasses\obj\Debug\PClasses.Properties.Resources.resources
+C:\Users\Mariana Parducci\source\repos\PClasses\PClasses\obj\Debug\PClasses.csproj.GenerateResource.cache
+C:\Users\Mariana Parducci\source\repos\PClasses\PClasses\obj\Debug\PClasses.csproj.CoreCompileInputs.cache
+C:\Users\Mariana Parducci\source\repos\PClasses\PClasses\obj\Debug\PClasses.exe
+C:\Users\Mariana Parducci\source\repos\PClasses\PClasses\obj\Debug\PClasses.pdb
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\PClasses\PClasses\bin\Debug\PClasses.exe.config
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\PClasses\PClasses\bin\Debug\PClasses.exe
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\PClasses\PClasses\bin\Debug\PClasses.pdb
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\PClasses\PClasses\obj\Debug\PClasses.csproj.AssemblyReference.cache
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\PClasses\PClasses\obj\Debug\PClasses.Form1.resources
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\PClasses\PClasses\obj\Debug\PClasses.frmHorista.resources
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\PClasses\PClasses\obj\Debug\PClasses.frmMensalista.resources
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\PClasses\PClasses\obj\Debug\PClasses.Properties.Resources.resources
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\PClasses\PClasses\obj\Debug\PClasses.csproj.GenerateResource.cache
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\PClasses\PClasses\obj\Debug\PClasses.csproj.CoreCompileInputs.cache
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\PClasses\PClasses\obj\Debug\PClasses.exe
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\PClasses\PClasses\obj\Debug\PClasses.pdb
