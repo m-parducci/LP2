@@ -1,0 +1,22 @@
+C:\Users\lobin\source\repos\Pratica_Aula09\Pratica_Aula09\obj\Debug\Pratica_Aula09.csproj.AssemblyReference.cache
+C:\Users\lobin\source\repos\Pratica_Aula09\Pratica_Aula09\obj\Debug\Pratica_Aula09.Form1.resources
+C:\Users\lobin\source\repos\Pratica_Aula09\Pratica_Aula09\obj\Debug\Pratica_Aula09.Properties.Resources.resources
+C:\Users\lobin\source\repos\Pratica_Aula09\Pratica_Aula09\obj\Debug\Pratica_Aula09.csproj.GenerateResource.cache
+C:\Users\lobin\source\repos\Pratica_Aula09\Pratica_Aula09\obj\Debug\Pratica_Aula09.csproj.CoreCompileInputs.cache
+C:\Users\lobin\source\repos\Pratica_Aula09\Pratica_Aula09\bin\Debug\Pratica_Aula09.exe.config
+C:\Users\lobin\source\repos\Pratica_Aula09\Pratica_Aula09\bin\Debug\Pratica_Aula09.exe
+C:\Users\lobin\source\repos\Pratica_Aula09\Pratica_Aula09\bin\Debug\Pratica_Aula09.pdb
+C:\Users\lobin\source\repos\Pratica_Aula09\Pratica_Aula09\obj\Debug\Pratica_Aula09.exe
+C:\Users\lobin\source\repos\Pratica_Aula09\Pratica_Aula09\obj\Debug\Pratica_Aula09.pdb
+C:\Users\lobin\source\repos\Pratica_Aula09\Pratica_Aula09\obj\Debug\Pratica_Aula09.frmEx6.resources
+C:\Users\Mariana Parducci\Desktop\Pratica_Aula09\Pratica_Aula09\Pratica_Aula09\bin\Debug\Pratica_Aula09.exe.config
+C:\Users\Mariana Parducci\Desktop\Pratica_Aula09\Pratica_Aula09\Pratica_Aula09\bin\Debug\Pratica_Aula09.exe
+C:\Users\Mariana Parducci\Desktop\Pratica_Aula09\Pratica_Aula09\Pratica_Aula09\bin\Debug\Pratica_Aula09.pdb
+C:\Users\Mariana Parducci\Desktop\Pratica_Aula09\Pratica_Aula09\Pratica_Aula09\obj\Debug\Pratica_Aula09.csproj.AssemblyReference.cache
+C:\Users\Mariana Parducci\Desktop\Pratica_Aula09\Pratica_Aula09\Pratica_Aula09\obj\Debug\Pratica_Aula09.Form1.resources
+C:\Users\Mariana Parducci\Desktop\Pratica_Aula09\Pratica_Aula09\Pratica_Aula09\obj\Debug\Pratica_Aula09.frmEx6.resources
+C:\Users\Mariana Parducci\Desktop\Pratica_Aula09\Pratica_Aula09\Pratica_Aula09\obj\Debug\Pratica_Aula09.Properties.Resources.resources
+C:\Users\Mariana Parducci\Desktop\Pratica_Aula09\Pratica_Aula09\Pratica_Aula09\obj\Debug\Pratica_Aula09.csproj.GenerateResource.cache
+C:\Users\Mariana Parducci\Desktop\Pratica_Aula09\Pratica_Aula09\Pratica_Aula09\obj\Debug\Pratica_Aula09.csproj.CoreCompileInputs.cache
+C:\Users\Mariana Parducci\Desktop\Pratica_Aula09\Pratica_Aula09\Pratica_Aula09\obj\Debug\Pratica_Aula09.exe
+C:\Users\Mariana Parducci\Desktop\Pratica_Aula09\Pratica_Aula09\Pratica_Aula09\obj\Debug\Pratica_Aula09.pdb
