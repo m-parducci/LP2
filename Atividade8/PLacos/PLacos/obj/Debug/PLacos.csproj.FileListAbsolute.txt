@@ -1,0 +1,26 @@
+D:\PLacos\PLacos\bin\Debug\PLacos.exe.config
+D:\PLacos\PLacos\bin\Debug\PLacos.exe
+D:\PLacos\PLacos\bin\Debug\PLacos.pdb
+D:\PLacos\PLacos\obj\Debug\PLacos.csprojAssemblyReference.cache
+D:\PLacos\PLacos\obj\Debug\PLacos.Form1.resources
+D:\PLacos\PLacos\obj\Debug\PLacos.Properties.Resources.resources
+D:\PLacos\PLacos\obj\Debug\PLacos.csproj.GenerateResource.cache
+D:\PLacos\PLacos\obj\Debug\PLacos.csproj.CoreCompileInputs.cache
+D:\PLacos\PLacos\obj\Debug\PLacos.exe
+D:\PLacos\PLacos\obj\Debug\PLacos.pdb
+D:\PLacos\PLacos\obj\Debug\PLacos.frmExercicio1.resources
+D:\PLacos\PLacos\obj\Debug\PLacos.frmExercicio2.resources
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\PLacos\PLacos\bin\Debug\PLacos.exe.config
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\PLacos\PLacos\bin\Debug\PLacos.exe
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\PLacos\PLacos\bin\Debug\PLacos.pdb
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\PLacos\PLacos\obj\Debug\PLacos.csproj.AssemblyReference.cache
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\PLacos\PLacos\obj\Debug\PLacos.Form1.resources
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\PLacos\PLacos\obj\Debug\PLacos.frmExercicio1.resources
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\PLacos\PLacos\obj\Debug\PLacos.frmExercicio2.resources
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\PLacos\PLacos\obj\Debug\PLacos.frmExercicio3.resources
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\PLacos\PLacos\obj\Debug\PLacos.Properties.Resources.resources
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\PLacos\PLacos\obj\Debug\PLacos.csproj.GenerateResource.cache
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\PLacos\PLacos\obj\Debug\PLacos.csproj.CoreCompileInputs.cache
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\PLacos\PLacos\obj\Debug\PLacos.exe
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\PLacos\PLacos\obj\Debug\PLacos.pdb
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\PLacos\PLacos\obj\Debug\PLacos.frmExercicio4.resources
