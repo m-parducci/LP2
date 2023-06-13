@@ -1,0 +1,13 @@
+D:\PContato0030482221017\PContato0030482221017\bin\Debug\PContato0030482221017.exe.config
+D:\PContato0030482221017\PContato0030482221017\bin\Debug\PContato0030482221017.exe
+D:\PContato0030482221017\PContato0030482221017\bin\Debug\PContato0030482221017.pdb
+D:\PContato0030482221017\PContato0030482221017\obj\Debug\PContato0030482221017.Form1.resources
+D:\PContato0030482221017\PContato0030482221017\obj\Debug\PContato0030482221017.Properties.Resources.resources
+D:\PContato0030482221017\PContato0030482221017\obj\Debug\PContato0030482221017.csproj.GenerateResource.cache
+D:\PContato0030482221017\PContato0030482221017\obj\Debug\PContato0030482221017.csproj.CoreCompileInputs.cache
+D:\PContato0030482221017\PContato0030482221017\obj\Debug\PContato0030482221017.exe
+D:\PContato0030482221017\PContato0030482221017\obj\Debug\PContato0030482221017.pdb
+D:\PContato0030482221017\PContato0030482221017\obj\Debug\PContato0030482221017.frmCidade.resources
+D:\PContato0030482221017\PContato0030482221017\obj\Debug\PContato0030482221017.frmContato.resources
+D:\PContato0030482221017\PContato0030482221017\obj\Debug\PContato0030482221017.abxSobre.resources
+D:\PContato0030482221017\PContato0030482221017\obj\Debug\PContato0030482221017.csprojAssemblyReference.cache
